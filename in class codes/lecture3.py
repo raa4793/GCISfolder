@@ -1,6 +1,6 @@
 def takeResearchPaper():
     ResearchPaper= input ("Name your research paper?")
-    count=0
+    count=1
     print(count, ResearchPaper)
 
 

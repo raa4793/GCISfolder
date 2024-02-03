@@ -55,16 +55,16 @@ mod(o,l)
 
 
 
-"""def add(a,b):
+def add(a,b):
     return a+b
 
-def subtract(a,b):
-
+def subtract(a,b): 
+    return 
 a=3
 b=4
 c=add(3,4)
 d=subtract(a,b)
-print(d)"""
+print(d)
 
 
 

@@ -12,7 +12,8 @@ def division(firstNum, secNum):
 def mod(firstNum,secNum):
     result=(firstNum+secNum)
     return result
-
+    
+    z=mod()
 
 
 

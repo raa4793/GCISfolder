@@ -10,8 +10,11 @@ def main():
     a= int(input("enter value 1:"))
     b= int(input("enter value 2:"))
     addResult=add(a,b) #this result will receive the addidtion
-    subtractResult=subtract(addResult,b)
-    print(subtractResult)
+    
+    x=int(input("enter value 3:"))
+    y=int(input("enter value 4:"))
 
+    FinalResult=subtract(addResult,x-y)
+    print(FinalResult)
 
 main()
